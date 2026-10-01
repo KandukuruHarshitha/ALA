@@ -9,10 +9,10 @@ This folder implements a custom `Vec` class for educational use in Applied Linea
 ## Running Tests
 Run pytest from the repository root:
 ```bash
-pytest Friend_Assignments/Assignment1/test_vector.py
+pytest ALA/Assignment1/test_vector.py
 ```
 Or from inside the folder:
 ```bash
-cd Friend_Assignments/Assignment1
+cd ALA/Assignment1
 pytest
 ```
